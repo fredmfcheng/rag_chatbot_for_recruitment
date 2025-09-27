@@ -1,0 +1,9 @@
+langchain
+langchain-ollama
+langchain-chroma
+pandas
+langchain_community
+python-docx
+unstructured
+pypdf
+streamlit
